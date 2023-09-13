@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">A fullstack developer from Italy based in the Netherlands</h3>
 
-- 🌱 I’m currently learning **Rails, React and Svelte**
+- 🌱 I’m currently learning **Java, Rails, React and Svelte**
 
 - 📫 How to reach me **daniele.trapani96@gmail.com**
 
