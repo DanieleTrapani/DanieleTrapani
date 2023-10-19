@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **daniele.trapani96@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tUZDjcjg1kfShjGgAsrRihap3DCb_PrWXTEPDd7l0Dc/edit](https://docs.google.com/document/d/1tUZDjcjg1kfShjGgAsrRihap3DCb_PrWXTEPDd7l0Dc/edit)
+- 📄 [My Resume](https://docs.google.com/document/d/1MtyhHAXWt-1YtRe6VlAj-fdwa9KRk-wK/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
